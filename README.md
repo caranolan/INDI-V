@@ -1,2 +1,2 @@
 # INDI-V
-INDI-V is an R Shiny app that measures of the contribution of independent risk variants to disease
+INDI-V is an R Shiny online app that helps genetic research scientists compare different methods of calculating the contribution to risk of disease of specific segments of DNA. It measures of the contribution of independent risk variants to disease. I created it with a team of fantastic colleagues at the Queensland Brain Institute in 2012. Unfortunately I've long since lost the underlying code, but the app itself can be accessed at: http://cnsgenomics.com/shiny/INDI-V. 
